@@ -15,3 +15,6 @@ Then connect the file to the local network such that the PC can identify the vir
 Now run the virtual box and then solve the challenge.
 The complete walkthrough is given in the Report present in the repository.
 The ultimate goal is to explore and learn, so try to find flags on your own!
+
+
+Special shoutout to my teammates @anonpran @Jyoo380 and @Ashu-1505
